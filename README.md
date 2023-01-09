@@ -8,7 +8,7 @@ Sistema feito em REST para gerenciar Incidentes (Entende-se como gerenciar: Edit
 
 ### Banco
 
- O Sistema utilzia o banco H2 como base contendo a entidade INCIDENT contendo:
+ O Sistema utilzia o banco H2 (Que sobe junto com a aplicação) como base contendo a entidade INCIDENT contendo:
  
  | ID_INCIDENT 	| CLOSED_AT 	| CREATE_AT 	| DESCRIPTION_INCIDENT 	| NAME 	| UPDATE_AT 	|
 |---	|---	|---	|---	|---	|---	|
@@ -16,7 +16,7 @@ Sistema feito em REST para gerenciar Incidentes (Entende-se como gerenciar: Edit
 |  	|  	|  	|  	|  	|  	|
 |  	|  	|  	|  	|  	|  	|
  
- O mesmo pdoe ser acessado no [H2-Console](http://localhost:8090/h2-console)
+ O mesmo pode ser acessado no [H2-Console](http://localhost:8090/h2-console)
  
  ### View
  
