@@ -6,6 +6,10 @@ System for diazero 🖥️
 
 Sistema feito em REST para gerenciar Incidentes (Entende-se como gerenciar: Editar, Consultar, Alterar e Excluir)
 
+### Execução
+
+Pode ser executado por uma IDE com suporte a java/spring.
+
 ## Foram utiliziados para o desenvolvimento
 
 <div style-"display: inline_block">
