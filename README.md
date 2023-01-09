@@ -35,7 +35,7 @@ Sistema feito em REST para gerenciar Incidentes (Entende-se como gerenciar: Edit
  
  A view utiliza BootStrap, themyleaf e Jquery.
  
- O mesmo pdoe ser acessado pelo [index](http://localhost:8090/index)
+ O mesmo pode ser acessado pelo [index](http://localhost:8090/index)
  
  Pagina inicial:
  
